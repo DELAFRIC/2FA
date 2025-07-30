@@ -1,0 +1,8 @@
+.login-container {
+  display: flex;
+  justify-content: center; // Centre horizontalement
+  align-items: center; // Centre verticalement
+  height: 100vh; // Prend toute la hauteur de la fenêtre
+  width: 100%; // Prend toute la largeur disponible
+  padding: 0; // Supprime le padding par défaut si nécessaire
+}
