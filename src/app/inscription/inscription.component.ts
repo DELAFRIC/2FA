@@ -6,7 +6,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-inscription',
-    standalone: true,
+  standalone: true,
   imports: [IonicModule, CommonModule, ReactiveFormsModule],
   templateUrl: './inscription.component.html',
   styleUrls: ['./inscription.component.scss'],
